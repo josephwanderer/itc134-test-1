@@ -2,3 +2,5 @@ A new File here.
 Yay
 Some more text for the new branch
 Yayay
+Putting some text in master to pull to the new branch
+Let's Try it!
